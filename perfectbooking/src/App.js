@@ -1,8 +1,8 @@
-import logo from "./logo.svg";
 import "./App.css";
+import React from "react";
 
 function App() {
-  return <div className="App"></div>;
+  return <h1>Perfect Booking</h1>;
 }
 
 export default App;
