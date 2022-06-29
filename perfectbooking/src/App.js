@@ -3,6 +3,7 @@ import Home from "./pages/home/Home";
 import List from "./pages/list/List";
 import Hotel from "./pages/hotel/Hotel";
 import "./index.css";
+import { useState, useEffect } from "react";
 
 const App = () => {
   return (
